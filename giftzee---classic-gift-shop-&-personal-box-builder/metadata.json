@@ -1,0 +1,6 @@
+{
+  "name": "Giftzee - Classic Gift Shop & Personal Box Builder",
+  "description": "A high-fidelity responsive replica inspired by the premium Gifymo WooCommerce template, featuring custom branding, seasonal gift selections, an interactive dynamic Gift Finder, and a fully functional multi-step Personalized Gift Box Builder. Powered by Giftzee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
